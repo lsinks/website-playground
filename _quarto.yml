@@ -12,7 +12,7 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: "Pillar-BS5-v2.0.1/Pillar-BS5-v2.0.1/assets/scss/pillar-1.scss"
     css: styles.css
     toc: true
 

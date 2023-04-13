@@ -2,10 +2,4 @@
 title: "website-playground"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+This is a tester website where I can test out changes to quarto styling without having to re-render my enter website. If you somehow ended up here, my real website is [here](https://lsinks.github.io/).
